@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "citations",
+  "info": {
+    "singularName": "citation",
+    "pluralName": "citations",
+    "displayName": "Citation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Citation": {
+      "type": "text"
+    },
+    "Nom": {
+      "type": "string"
+    }
+  }
+}
