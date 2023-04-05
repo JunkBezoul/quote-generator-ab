@@ -19,7 +19,7 @@
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::citation.citation",
-      "inversedBy": "Auteur"
+      "inversedBy": "Auteurs"
     }
   }
 }

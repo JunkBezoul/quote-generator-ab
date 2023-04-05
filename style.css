@@ -98,3 +98,8 @@ html, body {
         height: 30%;
     }
   }
+
+  a {
+    color: rgba(red, green, blue, 255);
+
+  }
