@@ -14,6 +14,12 @@
   "attributes": {
     "Citation": {
       "type": "text"
+    },
+    "Auteur": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::auteur.auteur",
+      "mappedBy": "Citation"
     }
   }
 }
