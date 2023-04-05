@@ -4,7 +4,8 @@
   "info": {
     "singularName": "citation",
     "pluralName": "citations",
-    "displayName": "Citation"
+    "displayName": "Citation",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,9 +14,6 @@
   "attributes": {
     "Citation": {
       "type": "text"
-    },
-    "Nom": {
-      "type": "string"
     }
   }
 }

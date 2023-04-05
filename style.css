@@ -19,7 +19,7 @@ html, body {
 .card {
     background-color: #FF00FF;
     width: 40%;
-    height: 20%;
+    height: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,12 +32,14 @@ html, body {
     display: flex;
     align-items: center;
     height: 580px;
+    font-size: 40px;
 }
 
 #author {
   display: flex;
   align-items: center;
   height: 580px;
+  font-size: 30px;
 }
 
   @keyframes rotate {
